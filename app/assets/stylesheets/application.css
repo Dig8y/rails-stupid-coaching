@@ -13,3 +13,23 @@
  *= require_tree .
  *= require_self
  */
+
+.coach-message {
+  background-color: lightyellow;
+  padding: 16px;
+}
+
+.message {
+  border-left: 4px solid gray;
+  margin: 24px;
+  padding: 16px;
+}
+
+.link {
+  margin: 24px;
+  text-decoration: none;
+}
+
+.ask-container {
+  margin: 24px;
+}
